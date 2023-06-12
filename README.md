@@ -1,5 +1,9 @@
 # Microsoft-Final-Project
-Final Product of Microsoft ready talent program in the industry of Fin-Tech.
+Final Project of Microsoft ready talent program in the industry of Fin-Tech.
+A cryptocurrency website help users to connects the people with the digital currency.
+# Azure Service Used
+Static Web App
+Language Service | Coginitive Services
 # Deployed Link
 Link Of Project - https://victorious-desert-06621f110.3.azurestaticapps.net/index.html
 # Home
